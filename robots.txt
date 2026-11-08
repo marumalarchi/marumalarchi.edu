@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marumalarchi.pages.dev/sitemap.xml
